@@ -1,5 +1,6 @@
 # Weather Complex
 
-In this complex API you have just input a city and country and it should give you the tempature including a article from a newpaper
+![cityweather](https://user-images.githubusercontent.com/39502339/42407955-52bc1690-8193-11e8-8a29-da776ef77408.PNG)
 
-This is using 2 APIs pull the weather and a news article
+In this complex API you have to input a city and country and it should give you the curent tempature of the city
+I used a API to pull the city and country loaction and used it to to pull from another API where it can connect with the temature of the area 
